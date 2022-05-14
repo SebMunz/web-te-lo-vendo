@@ -7,9 +7,6 @@
 ***
 ### 1. Integrantes del Equipo <a name="Integrantes-del-Equipo"></a>
 
- 1. Integrantes del Equipo
-
-
 Equipo 2: Tiene Sueño el Piero
 
 Integrantes:
