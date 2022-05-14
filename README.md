@@ -1,4 +1,4 @@
-# ABPro 6 Grupal
+# ABPro 7 Grupal
 ***
 ## Tabla de contenidos
 1. [Integrantes del Equipo](#Integrantes-del-Equipo)
